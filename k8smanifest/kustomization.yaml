@@ -7,5 +7,6 @@ resources:
 - ingress.yml
 images:
 - name: sd0188-practical-devop-backend/backend-latest
+  newTag: "backend-latest"
 - name: sd0188-practical-devop-frontend/frontend-latest
-
+  newTag: "frontend-latest"
