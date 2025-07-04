@@ -21,7 +21,7 @@ spec:
     matchLabels:
       app: frontend
   revisionHistoryLimit: 1
-  replicas: 1
+  replicas: 2
   template:
     metadata:
       labels:
